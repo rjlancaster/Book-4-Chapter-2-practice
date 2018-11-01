@@ -1,0 +1,18 @@
+{
+  "legos": [
+    {
+      "creator": "Richard",
+      "color": "Red",
+      "shape": "Square",
+      "creation": "Doggie",
+      "id": 1
+    },
+    {
+      "creator": "Biddy",
+      "color": "4",
+      "shape": "Star",
+      "creation": "House",
+      "id": 2
+    }
+  ]
+}
